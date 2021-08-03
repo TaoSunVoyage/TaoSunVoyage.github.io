@@ -19,36 +19,38 @@ sass:
 
 # SEO settings
 title: Tao Sun
-description: "Hi there! I am Tao Sun."
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+description: "Homepage of Tao Sun"
+keywords: "Data Science, Voyage"
 url: https://taosunvoyage.github.io
 baseurl: ""
 
-google_analytics: UA-52446115-1
-repo: http://github.com/taosunvoyage/taosunvoyage.github.io/
-disqus_shortname: "taosun"
-disqus_site_shortname: "taosun"
+# google_analytics:
+repo: http://github.com/taosunvoyage/
+# disqus_shortname:
+# disqus_site_shortname:
 
 # Author settings
 author:
   name: Tao Sun
-  job: Data Science Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  greetings: "Hi there! Welcome to my personal page."
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: taosun.data@gmail.com
+  url: https://taosunvoyage.github.io/
+  github: https://github.com/taosunvoyage
+  # twitter:
+  # facebook:
+  linkedin: https://linkedin.com/in/taosunvoyage
 
 # navbar pages
 navbar:
   - slug: about
     title: About
-  - slug: icons
-    title: Icons
+  - slug: projects
+    title: Projects
+  - slug: talks
+    title: Talks
   - slug: blog
     title: Blog
+
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
