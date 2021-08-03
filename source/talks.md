@@ -4,4 +4,4 @@ title: Talks
 permalink: /talks/
 ---
 
-- Workshop of Reproducible Science at [Rencontres R 2021](https://paris2021.rencontresr.fr/invited/)
+- Workshop at [Rencontres R 2021](https://paris2021.rencontresr.fr/invited/): *Reproducible Science*
